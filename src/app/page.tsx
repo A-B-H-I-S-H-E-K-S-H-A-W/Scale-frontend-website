@@ -1,6 +1,5 @@
 import Navbar from "@/components/ui/navbar";
 import bg from "../assets/background.jpg";
-import bubble from "../assets/bubble.png";
 import bubble_2 from "../assets/bubble_2.png";
 import Button from "@/components/ui/button";
 import Image from "next/image";
